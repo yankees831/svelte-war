@@ -1,6 +1,6 @@
 # Svelte-war - game build with Svelte 3 for habr tutorial.
 
-Try [demo](https://az67128.github.io/svelte-war)
+Try [demo](https://yankees831.github.io/svelte-war)
 
 Tutorial available [here](https://habr.com/ru/post/452684/)
 
